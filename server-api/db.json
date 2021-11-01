@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "'id'": "470fe096-2eae-4bcf-97d3-1285fdaeccf0",
+      "name": "Uzma Yasmeen ",
+      "email": "uzma.yasmeen.ui@gmail.com"
+    },
+    {
+      "id": "186a5c84-19bb-4eef-a1b5-d1d48df03d88",
+      "name": "Mike 123",
+      "email": "mike@yahoo.com"
+    },
+    {
+      "id": "7c8396b6-d00a-4712-9d74-51cdbb47a90a",
+      "name": "john",
+      "email": "john@outlook.com"
+    }
+  ]
+}
